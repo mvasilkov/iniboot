@@ -1,0 +1,27 @@
+{
+  "name": "iniboot",
+  "version": "0.0.1",
+  "description": "iniboot ★ a Bootstrap theme",
+  "main": "NotImplemented.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvasilkov/iniboot.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "theme"
+  ],
+  "author": "Mark Vasilkov (https://github.com/mvasilkov)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvasilkov/iniboot/issues"
+  },
+  "homepage": "https://github.com/mvasilkov/iniboot",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.10.1",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^1.0.0"
+  }
+}

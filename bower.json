@@ -1,0 +1,19 @@
+{
+  "name": "iniboot",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mvasilkov/iniboot",
+  "authors": [
+    "Mark Vasilkov (https://github.com/mvasilkov)"
+  ],
+  "description": "iniboot ★ a Bootstrap theme",
+  "main": "NotImplemented.js",
+  "keywords": [
+    "bootstrap",
+    "theme"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap-sans-bullshit": "3.3.5-sans3",
+    "prism": "~1.0.0"
+  }
+}
